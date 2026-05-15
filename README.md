@@ -48,4 +48,4 @@ Add your website link here once deployed.
 ## Contact
 
 GitHub: https://github.com/homaira-mohammadi
-LinkedIn: Add your LinkedIn profile link here
+LinkedIn:www.linkedin.com/in/homairamohammadi
